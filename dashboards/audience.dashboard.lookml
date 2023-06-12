@@ -1597,7 +1597,7 @@
   - name: Date
     title: Date
     type: field_filter
-    default_value: 14 day
+    default_value: "2021/01/01 to 2021/01/31"
     allow_multiple_values: true
     required: false
     ui_config:
