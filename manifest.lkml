@@ -6,7 +6,7 @@ constant: GA4_CONNECTION {
 }
 
 constant: GA4_SCHEMA {
-  value: "bigquery-public-data.ga4_obfuscated_sample_ecommerce"
+  value: "data-eng-on-gcp-371519.stuff"
   export: override_optional
 }
 
